@@ -1,6 +1,8 @@
 # International-Labor-Organization-Data
 https://pardeewiki.du.edu/index.php?title=ILOstat
 
-# ILO Country = country list
+# ILO Country
+This is the country list for ILO.
 
-# ILOtables.pynb = script that transforms data and imports it in a db file
+# ILOtables.pynb
+This is the script that transforms data and imports it in a db file.
